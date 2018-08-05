@@ -5,7 +5,7 @@ Projeto Java com Spring Boot e Maven-based com objetivo de disponibilizar uma AP
 ## Prerequisites
 
 	Java 8
-	Postresql
+	Postgresql
 
 ## Built With 
 
