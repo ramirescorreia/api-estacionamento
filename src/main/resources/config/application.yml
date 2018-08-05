@@ -1,0 +1,17 @@
+spring:
+  profiles:
+    active: dev
+  datasource:
+    driverClassName: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/estacionamento
+    username: postgres
+    password: 12345678
+  jpa:
+    database-platform: org.hibernate.dialect.PostgreSQLDialect  
+    hibernate:
+      ddl-auto: update
+    properties: 
+      hibernate:
+        show_sql: true
+        use_sql_comments: true
+        format_sql: true
