@@ -4,15 +4,15 @@ Projeto Java com Spring Boot e Maven-based com objetivo de disponibilizar uma AP
 
 ## Prerequisites
 
-	* Java 8
-	* Postresql
+	Java 8
+	Postresql
 
 ## Built With 
 
-	* Maven - Dependency Management
+	Maven - Dependency Management
 
 ## Authors
 
-	* Ramiro Correia Vitorino Cardoso
+	Ramiro Correia Vitorino Cardoso
  
 
